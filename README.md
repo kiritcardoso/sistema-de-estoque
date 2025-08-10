@@ -2,7 +2,9 @@
 
 > Uma solução moderna e rápida para gerenciar seu estoque com praticidade e estilo.
 
-![Preview](https://via.placeholder.com/1000x400?text=Imagem+ou+GIF+do+Sistema)
+<img width="1366" height="615" alt="Captura de tela de 2025-04-07 16-05-11" src="https://github.com/user-attachments/assets/2af0bc57-3b34-4a0d-b255-5ca8766b5835" />
+
+
 
 ---
 
